@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Netdb Stocks">
+  <rect fill="#65A30D" width="32" height="32" rx="8"/>
+  <g transform="translate(16 16) scale(0.6857) translate(-15.8750 -15.8150)">
+    <path d="M5.5 24.5L12 16.5L17 21.5L24 9.38" fill="none" stroke="#AACC7A" stroke-width="2.5" stroke-linejoin="round"/>
+    <circle cx="5.5" cy="24.5" r="2.75" fill="#AACC7A"/>
+    <circle cx="12" cy="16.5" r="3.25" fill="#D1E3B6"/>
+    <circle cx="17" cy="21.5" r="3.25" fill="#D1E3B6"/>
+    <circle cx="24" cy="9.38" r="5" fill="#FFFFFF"/>
+  </g>
+</svg>

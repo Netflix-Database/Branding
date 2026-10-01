@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Netdb Music">
+  <rect fill="#E0245E" width="32" height="32" rx="8"/>
+  <g transform="translate(16 16) scale(0.6667) translate(-16.0000 -16.0000)">
+    <rect x="2.5" y="16" width="7.5" height="13.5" rx="3.75" fill="#FFFFFF" fill-opacity="0.45"/>
+    <rect x="12.25" y="9.25" width="7.5" height="13.5" rx="3.75" fill="#FFFFFF" fill-opacity="0.7"/>
+    <rect x="22" y="2.5" width="7.5" height="13.5" rx="3.75" fill="#FFFFFF"/>
+  </g>
+</svg>

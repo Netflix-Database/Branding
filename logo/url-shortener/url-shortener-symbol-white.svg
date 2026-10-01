@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Netdb Url Shortener">
+  <title>Netdb Url Shortener</title>
+  <g fill="#ffffff" transform="translate(16 16) scale(1.1430) translate(-16 -16) rotate(-45 16 16)">
+    <path d="M10 8H22A8 8 0 0 1 22 24H10A8 8 0 0 1 10 8ZM16.5 9.7H22A6.3 6.3 0 0 1 22 22.3H16.5A6.3 6.3 0 0 1 16.5 9.7Z" fill-rule="evenodd"/>
+    <path d="M16.5 10.5H22A5.5 5.5 0 0 1 22 21.5H16.5A5.5 5.5 0 0 1 16.5 10.5ZM22 11.95H22A4.05 4.05 0 0 1 22 20.05H22A4.05 4.05 0 0 1 22 11.95Z" fill-rule="evenodd"/>
+    <path d="M22 12.75H22A3.25 3.25 0 0 1 22 19.25H22A3.25 3.25 0 0 1 22 12.75Z"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Minesweeper">
+  <rect fill="#E53935" width="32" height="32" rx="8"/>
+  <g transform="translate(16 16) scale(1.0307) translate(-15.7500 -16.0000)">
+    <rect x="14.875" y="10" width="2.25" height="12.5" rx="1.125" fill="#FFFFFF"/>
+    <path stroke-width="1.5" stroke-linejoin="round" d="M16.375 6.75L8.875 11.75L16.375 16.75Z" fill="#FFFFFF" stroke="#FFFFFF"/>
+    <rect x="11.375" y="20.75" width="9.25" height="2.75" rx="1.375" fill="#FFFFFF"/>
+    <rect x="8.625" y="22.75" width="14.75" height="3.25" rx="1.625" fill="#FFFFFF"/>
+  </g>
+</svg>
