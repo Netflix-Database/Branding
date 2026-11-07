@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Netdb Hub">
+  <defs>
+    <linearGradient id="hubOrange" gradientUnits="userSpaceOnUse" x1="0" y1="32.43" x2="0" y2="353.88">
+      <stop offset="0.1" stop-color="#FFA300"/>
+      <stop offset="1" stop-color="#FF5A13"/>
+    </linearGradient>
+    <clipPath id="hubStem"><polygon points="-20,-20 298.67,-20 179.14,187.02 182.14,199.02 182.14,373.88 -20,373.88"/></clipPath>
+  </defs>
+  <rect fill="#1A1A1A" width="32" height="32" rx="8"/>
+  <g transform="translate(17.25 16.2) scale(0.03264) translate(-300 -300.5)" fill="none" stroke-width="120" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M135.3 503.88C61 546.76 475.47 307.49 475.47 307.49A10.78 10.78 0 0 0 475.47 288.83L135.3 92.43A10.78 10.78 0 0 0 119.14 101.76V293.88" stroke="#FFFFFF"/>
+    <path d="M135.3 503.88C61 546.76 475.47 307.49 475.47 307.49A10.78 10.78 0 0 0 475.47 288.83L135.3 92.43A10.78 10.78 0 0 0 119.14 101.76V293.88" stroke="url(#hubOrange)" clip-path="url(#hubStem)"/>
+  </g>
+</svg>
